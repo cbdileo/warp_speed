@@ -1,4 +1,4 @@
-# warp_speed
+# Warp Speed Unity Effect
 Simple package for creating a warp speed effect in Unity
 
 # Video Example
